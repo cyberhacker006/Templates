@@ -1,4 +1,5 @@
 public class SLL_Node{
+	// before using this class you have to get SLL class
 		private Object data;
 		private SLL_Node link;
 		public SLL_Node(Object dataToAdd){
