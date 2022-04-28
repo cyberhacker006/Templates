@@ -1,5 +1,5 @@
 public class SLL {
-
+       // before using this class you have to get SLL_Node class 
 	public SLL_Node head = null;
 	public SLL_Node tail = null;
 	public void add(Object data) {
