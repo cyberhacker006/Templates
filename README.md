@@ -1,2 +1,2 @@
 # Templates
-This repository contains many kind of templates in different software languages.
+This branch contains java templates.
